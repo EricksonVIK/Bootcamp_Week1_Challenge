@@ -2,7 +2,7 @@
 ## Week 1 Assignment: amend the code for accessibility, repair any issues, clean up code.
 
 # HTML changes:
- * Changed Title from website to Horiseon <!-- Changed <title>website</title> -->
+ * Changed Title from website to Horiseon <!-- Changed <title>website</title> -->git 
  * Differentiated header, sections, and footer removing multiple div element
  * Added Nav element for header links
  * Added alt value to images (including main image)
