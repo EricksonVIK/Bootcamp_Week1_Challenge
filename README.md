@@ -1,5 +1,6 @@
-# Bootcamp_Week1_Challenge
-Week one bootcamp assignment
+# BootcampChallenge1
+Week 1 Assignment: amend the code for accessibility, repair any issues, clean up code.
+
 HTML changes:
 1. Changed Title from website to Horiseon <!-- Changed <title>website</title> -->
 2. Differentiated header, sections, and footer removing multiple div element
@@ -15,4 +16,4 @@ CSS changes:
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 2. Organized CSS flow with universal at top and matched flow of html file.
 3. Grouped classs
-4. Added hover with matching background cover and black font.   
+4. Added hover with matching background cover and black font.    
